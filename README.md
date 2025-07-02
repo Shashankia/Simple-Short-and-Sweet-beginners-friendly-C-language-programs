@@ -11,7 +11,7 @@ These program are written in codeblocks ide for windows. These programs are not 
 - Please check your spellings before making a PR
 - Comment code properly.
 
-![alt text](https://github.com/Shashankia)
+
 
 # Contributing
 This is a personal learning project for me.
